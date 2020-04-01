@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+
+.big{
+    font-size: 20px;
+}
+
+
+.blurred{
+    box-shadow: 0px 0px 40px 40px #c5c5c5;
+    width: 500;
+    height: 750;
+}
