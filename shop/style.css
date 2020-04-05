@@ -1,0 +1,39 @@
+.navbar{
+    height: 59px;
+    background: #FFD0C2;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    margin-left: 20px;
+    width: 60px;
+}
+
+.logo h2{
+    font-size: 20px;
+    margin-left: 10px;
+    color: green;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin-right: 20px;
+}
+
+li:last-child{
+    margin-right: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
